@@ -1,0 +1,26 @@
+[PROJECT]
+Target=soft.hex
+Processor_Text=PIC16F877
+CCSVerions=5.015
+Compiler=PCM
+CCSVersion=5.015
+[Target Data]
+FileList=soft.c
+[Directories]
+Include=C:\Program Files (x86)\PICC\Devices\;C:\Program Files (x86)\PICC\Drivers\
+[C:\Users\Windows\Desktop\Micro\testeDS1307\software\soft]
+Type=4
+[mru-list]
+1=soft.c
+[Opened Files]
+1=soft.c
+2=
+3=
+[soft.c]
+Type=4
+[ExtraIncludes]
+Count=1
+1=soft=c:\users\windows\desktop\micro\testeds1307\software\ds1307.c
+[Units]
+Count=1
+1=soft (main)
